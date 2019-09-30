@@ -1,2 +1,2 @@
 # Dathu
-MyRepository - Yes
+MyRepository - Yes - yes
